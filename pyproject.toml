@@ -1,6 +1,6 @@
 [project]
 name = "file-concatenator"
-version = "0.1.1"
+version = "0.1.2"
 description = "Concatenates multiple files into one output stream without reading entire files into memory."
 requires-python = ">=3.10"
 dependencies = []
